@@ -1,0 +1,5 @@
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\UserManagement\bin\Debug\UserManagement.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.csprojResolveAssemblyReference.cache
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\UserManagement\obj\Debug\UserManagement.pdb

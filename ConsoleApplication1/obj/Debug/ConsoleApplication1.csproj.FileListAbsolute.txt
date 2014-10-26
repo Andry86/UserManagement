@@ -1,0 +1,8 @@
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\bin\Debug\UserManagement.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\bin\Debug\UserManagement.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

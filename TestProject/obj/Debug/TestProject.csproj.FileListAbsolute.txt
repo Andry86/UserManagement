@@ -1,0 +1,7 @@
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\bin\Debug\TestProject.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\bin\Debug\TestProject.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\bin\Debug\UserManagement.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\bin\Debug\UserManagement.pdb
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\obj\Debug\TestProject.dll
+C:\Users\andrea.locci\documents\visual studio 2012\Projects\UserManagement\TestProject\obj\Debug\TestProject.pdb
